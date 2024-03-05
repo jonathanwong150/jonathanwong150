@@ -9,11 +9,9 @@
 
 - 🧑🏻‍💻 Software Engineer + Data Analyst Intern @ **Pearson**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jonathanwong150/](https://github.com/jonathanwong150/)
-
 - 📫 How to reach me **jzwong@usc.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CXIwUIprPlkHY2EvJoLbs5QB_cEJmLvD/view?usp=sharing](https://drive.google.com/file/d/1CXIwUIprPlkHY2EvJoLbs5QB_cEJmLvD/view?usp=sharing)
+- 📄 Take a look at my Resume! [Link Here](https://drive.google.com/file/d/1CXIwUIprPlkHY2EvJoLbs5QB_cEJmLvD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
